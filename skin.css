@@ -22,7 +22,7 @@
     left: 126px;
     top: 239px;
     background: url(http://i.imgur.com/GaV5RBy.png);
-    /* background-position: -152px 0px; */
+    background-position: -152px 0px;
     -webkit-clip-path: 50%;
 }
 .custom .trigger{
@@ -66,7 +66,7 @@
 }
 .custom .quadrant{
     position: absolute;
-    /* background: url(http://mrmcpowned.com/gamepad/xbox-assets/quadrant.svgz); */
+    background: url(http://mrmcpowned.com/gamepad/xbox-assets/quadrant.svgz);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -120,7 +120,7 @@
     top: 231px;
     left: 388px;
     background: url(http://i.imgur.com/tE4M2o4.png);
-    /* background-size: contain; */
+    background-size: contain;
 }
 .custom .button{
     position: absolute;
