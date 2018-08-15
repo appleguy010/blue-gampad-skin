@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom{
-    /* background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/base-blue.png); */
+    background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/base-blue.png);
     height: 630px;
     width: 750px;
     margin-left: -375px;
