@@ -19,8 +19,8 @@
 
 }
 .edit .stick.right{
-    top: calc(100% - 24px);
-    left: calc(100% + 150px);
+    top: calc(100% - 23px);
+    left: calc(100% + 151px);
 }
 .edit .abxy{
     position: absolute;
