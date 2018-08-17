@@ -19,7 +19,7 @@
 
 }
 .edit .stick.right{
-    top: calc(100% - 27px);
+    top: calc(100% - 24px);
     left: calc(100% + 150px);
 }
 .edit .abxy{
