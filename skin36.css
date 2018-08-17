@@ -29,7 +29,7 @@
     opacity: 0;
 }
 .edit .bumpers{
-    width: 520px;
+    width: 522px;
     top: 130px;
     left: 110px;
 }
@@ -38,7 +38,7 @@
 }*/
 .edit .abxy{
     position: absolute;
-    top: 156px;
+    top: 300px;
     left: 538px;
 }
 .edit .quadrant{
