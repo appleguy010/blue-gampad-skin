@@ -28,7 +28,7 @@
     background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/bumper.png);
     opacity: 0;
 }
-edit .bumpers{
+.edit .bumpers{
     left: 50px;
     top: 0px;
 }
