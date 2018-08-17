@@ -29,12 +29,13 @@
     opacity: 0;
 }
 .edit .bumpers{
+    width: 200px;
     top: 130px;
     left: 110px;
 }
-.edit .bumper.right{
+/*.edit .bumper.right{
     left: calc(100% - 12px);
-}
+}*/
 .edit .abxy{
     position: absolute;
     top: 156px;
