@@ -28,6 +28,9 @@
     background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/bumper.png);
     opacity: 0;
 }
+edit .bumpers{
+    left: calc(100% + 3px);
+}
 .edit .abxy{
     position: absolute;
     top: 156px;
