@@ -21,6 +21,11 @@
     -webkit-clip-path: circle(50% at center);
     clip-path: circle(50% at center);
 }
+.edit .abxy{
+    position: absolute;
+    top: 156px;
+    left: 538px;
+}
 .edit .quadrant{
-	display: none
+    display: none
 }
