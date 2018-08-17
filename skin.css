@@ -14,8 +14,8 @@
     position: absolute;
     width: 137px;
     height: 139px;
-    top: 239px;
-    left: 224px;
+    /*top: 239px;
+    left: 224px; */
     background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/base-blue.png);*/;
     background-position: -117px -214px;
     -webkit-clip-path: circle(50% at center);
