@@ -22,7 +22,7 @@
     top: calc(100% - 25px);
     left: calc(100% + 150px);
 }
-.custom .bumper{
+.edit .bumper{
     width: 162px;
     height: 60px;
     background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/bumper.png);
