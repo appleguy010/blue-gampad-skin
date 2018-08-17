@@ -6,9 +6,9 @@
 .edit .stick {
     position: absolute;
     background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/stick.png);
+    background-position: 84px 0;
     height: 84px;
     width: 84px;
-    background-position: 84px 0;
 }
 
 .edit .quadrant{
