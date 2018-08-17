@@ -10,7 +10,10 @@
     height: 84px;
     width: 84px;
 }
-
+.edit .stick.left{
+    top: -10;
+    left: -10;
+}
 .edit .quadrant{
 	display: none
 }
