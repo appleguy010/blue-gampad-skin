@@ -10,9 +10,9 @@
     height: 84px;
     width: 84px;
 }
-.edit .stick.left{
-    top: -10;
-    left: -10;
+.edit .sticks{
+    top: 239px;
+    left: 224px;
 }
 .edit .quadrant{
 	display: none
