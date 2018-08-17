@@ -9,6 +9,12 @@
     height: 84px;
     width: 84px;
 }
+.stick.pressed.left{
+    background-position-x: -84px;
+}
+.stick.pressed.right{
+    background-position-x: -84x;
+}
 .edit .quadrant{
 	display: none
 }
