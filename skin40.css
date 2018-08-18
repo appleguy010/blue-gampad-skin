@@ -52,22 +52,24 @@
     margin-top: 0px;
 }
 .edit .a{
-    background-position: 62px 0;
-    top: 142px;
-    left: 71px;
+    background-position: 0 0;
+    top: 108px;
+    left: 55px;
 }
 .edit .b{
-    background-position: 125px 0;
-    top: 71px;
-    right: 0px;
+    background-position: -49px 0;
+    top: 57px;
+    right: 3px;
 }
 .edit .x{
-    background-position: 0 0;
-    top: 71px;
+    background-position: -98px 0;
+    top: 57px;
+    left: 4px;
 }
 .edit .y{
-    background-position: -63px 0;
-    left: 71px;
+    background-position: 48px 0;
+    left: 55px;
+    top: 5px;
 }
 .edit .quadrant{
     display: none
