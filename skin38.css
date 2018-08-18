@@ -47,6 +47,10 @@
     height: 54px;
     background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/abxy.png);
 }
+.edit .button.pressed{
+    background-position-y: -56px;
+    margin-top: 5px;
+}
 .edit .quadrant{
     display: none
 }
