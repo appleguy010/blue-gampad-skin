@@ -49,7 +49,25 @@
 }
 .edit .button.pressed{
     background-position-y: -56px;
-    margin-top: 5px;
+    margin-top: 0px;
+}
+.edit .a{
+    background-position: 62px 0;
+    top: 142px;
+    left: 71px;
+}
+.edit .b{
+    background-position: 125px 0;
+    top: 71px;
+    right: 0px;
+}
+.edit .x{
+    background-position: 0 0;
+    top: 71px;
+}
+.edit .y{
+    background-position: -63px 0;
+    left: 71px;
 }
 .edit .quadrant{
     display: none
