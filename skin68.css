@@ -86,7 +86,6 @@
 }
 .edit .back.pressed, .edit .start.pressed{
     opacity: 1;
-    margin-top: -1px;
 }
 .edit .back{
     float: left;
