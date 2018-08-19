@@ -95,6 +95,48 @@
     background-position: 33px 0px;
     float: right;
 }
+.edit .dpad{
+    position: absolute;
+    width: 110px;
+    height: 111px;
+    top: 345px;
+    left: 223px;
+}
+.edit .face{
+    background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/dpad1.png);
+    position: absolute;
+    opacity: 0;
+}
+.edit .face.pressed{
+    opacity: 1;
+}
+.edit .face.up{
+    background-position: 34px 0;
+    left: 38px;
+    top: 0px;
+    width: 37px;
+    height: 36px;
+}
+.edit .face.down{
+    left: 38px;
+    bottom: 0;
+    width: 38px;
+    height: 35px;
+}
+.edit .face.left{
+    background-position: 0 -93px;
+    width: 36px;
+    height: 38px;
+    top: 38px;
+    left: 0;
+}
+.edit .face.right{
+    background-position: 0 -57px;
+    width: 36px;
+    height: 38px;
+    top: 38px;
+    right: 0;
+}
 .edit .quadrant{
     display: none
 }
