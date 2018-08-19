@@ -73,7 +73,7 @@
 }
 .edit .arrows{
     position: absolute;
-    width: 144px;
+    width: 143px;
     height: 33px;
     top: 257px;
     left: 300px;
@@ -87,6 +87,7 @@
 .edit .back.pressed, .edit .start.pressed{
     opacity: 1;
 }
+
 .edit .back{
     float: left;
 }
