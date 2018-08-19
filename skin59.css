@@ -48,7 +48,7 @@
     background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/abxy.png);
 }
 .edit .button.pressed{
-    background-position-y: -56px;
+    background-position-y: -57px;
     margin-top: -1px;
 }
 .edit .a{
