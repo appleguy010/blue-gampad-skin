@@ -43,12 +43,12 @@
 }
 .edit .button{
     position: absolute;
-    width: 54px;
-    height: 54px;
+    width: 55px;
+    height: 55px;
     background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/abxy.png);
 }
 .edit .button.pressed{
-    background-position-y: -57px;
+    background-position-y: -56px;
     margin-top: -1px;
 }
 .edit .a{
