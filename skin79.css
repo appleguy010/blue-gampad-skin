@@ -100,7 +100,7 @@
     width: 110px;
     height: 111px;
     top: 340px;
-    left: 215px;
+    left: 214px;
 }
 .edit .face{
     background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/dpad1.png);
@@ -124,7 +124,7 @@
     height: 35px;
 }
 .edit .face.left{
-    background-position: 0 -79px;
+    background-position: 0 -78px;
     width: 36px;
     height: 38px;
     top: 38px;
