@@ -49,7 +49,7 @@
 }
 .edit .button.pressed{
     background-position-y: -56px;
-    margin-top: 0px;
+    margin-top: 20px;
 }
 .edit .a{
     background-position: 0 0;
