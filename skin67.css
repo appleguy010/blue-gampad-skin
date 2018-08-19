@@ -75,8 +75,8 @@
     position: absolute;
     width: 141px;
     height: 33px;
-    top: 259px;
-    left: 301px;
+    top: 257px;
+    left: 300px;
 }
 .edit .back, .edit .start{
     background: url(https://raw.githubusercontent.com/appleguy010/blue-gampad-skin/master/start-select.png);
@@ -86,6 +86,7 @@
 }
 .edit .back.pressed, .edit .start.pressed{
     opacity: 1;
+    margin-top: -1px;
 }
 .edit .back{
     float: left;
