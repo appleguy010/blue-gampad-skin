@@ -97,7 +97,7 @@
 }
 .edit .dpad{
     position: absolute;
-    width: 110px;
+    width: 118px;
     height: 115px;
     top: 338px;
     left: 214px;
@@ -134,7 +134,7 @@
     background-position: 0 -39px;
     width: 41px;
     height: 39px;
-    top: 38px;
+    top: 39px;
     right: 0;
 }
 .edit .quadrant{
