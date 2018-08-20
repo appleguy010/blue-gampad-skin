@@ -112,10 +112,10 @@
 }
 .edit .face.up{
     background-position: 39px 0;
-    left: 38px;
+    left: 40px;
     top: 0px;
     width: 37px;
-    height: 36px;
+    height: 38px;
 }
 .edit .face.down{
     left: 38px;
@@ -125,7 +125,7 @@
 }
 .edit .face.left{
     background-position: 0 -79px;
-    width: 40px;
+    width: 41px;
     height: 39px;
     top: 39px;
     left: 0;
